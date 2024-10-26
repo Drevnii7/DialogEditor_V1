@@ -1,0 +1,31 @@
+WinX: 1920
+WinY: 1080
+MaxFPS: 60
+ShowFPS: 0
+ShowCon: 1
+AntiAlias: 0
+
+BackgroundsColorR: 128
+BackgroundsColorG: 128
+BackgroundsColorB: 128
+
+DefaultKeyboardLang: 0
+DefaultLang: 0
+
+SizeNodes: 75
+
+GridEnable: 1
+GridShow: 1
+GridSize: 37,5
+GridThickness: 3
+GridColorR: 100
+GridColorG: 100
+GridColorB: 100
+
+ZoomSpeed: 0.1 
+CameraSpeed: 10
+
+SizeButtonLanguage:75
+SizeText:75
+SizeButtonLeftDown:75
+SizeButtonLeftUp:75
